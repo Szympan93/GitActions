@@ -1,0 +1,14 @@
+C:\Users\szymo\RiderProjects\GitActions\GitActions\bin\Release\net10.0\GitActions.exe
+C:\Users\szymo\RiderProjects\GitActions\GitActions\bin\Release\net10.0\GitActions.deps.json
+C:\Users\szymo\RiderProjects\GitActions\GitActions\bin\Release\net10.0\GitActions.runtimeconfig.json
+C:\Users\szymo\RiderProjects\GitActions\GitActions\bin\Release\net10.0\GitActions.dll
+C:\Users\szymo\RiderProjects\GitActions\GitActions\bin\Release\net10.0\GitActions.pdb
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\GitActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\GitActions.AssemblyInfoInputs.cache
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\GitActions.AssemblyInfo.cs
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\GitActions.csproj.CoreCompileInputs.cache
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\GitActions.dll
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\refint\GitActions.dll
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\GitActions.pdb
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\GitActions.genruntimeconfig.cache
+C:\Users\szymo\RiderProjects\GitActions\GitActions\obj\Release\net10.0\ref\GitActions.dll
